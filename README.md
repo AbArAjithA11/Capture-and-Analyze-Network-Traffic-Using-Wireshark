@@ -33,7 +33,7 @@ Identified unusual traffic patterns for potential security or performance issues
 
 Findings
 
-Successfully captured live traffic including HTTP, HTTPS, and DNS requests.
+Successfully captured live traffic including ARP, TCP, and DNS requests.
 
 Verified network latency and packet loss in certain streams.
 
